@@ -1,6 +1,6 @@
 ### Lucas de frança
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=lucas-de-f)
+![YOUR github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-de-f&theme=dark&hide_langs_below=1)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-de-f&show_icons=true&theme=radical)
 
