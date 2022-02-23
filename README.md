@@ -1,25 +1,6 @@
 ### Lucas de frança
 
-```
-const lucas = {
-  code: ["javaScript", "mysql", "html", "css"],
-  askMeAbout: ["WebDev", "Tech"],
-  technologies: {
-        backEnd: {
-            js: ["Node", "express"],
-        },
-        frontEnd: {
-            js: ["react", "redux"],
-        },
-        devOps: ["Heroku", "Docker🐳"],
-        databases: ["sequelize", "MySql"],
-        currentFocus: "TypeScript",
-    },
-}
-```
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-de-f&show_icons=true&theme=radical)
-
 
 # back-end
 
@@ -39,3 +20,22 @@ const lucas = {
 
 ### testes
 ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+# Sobre
+```
+const lucas = {
+  code: ["javaScript", "mysql", "html", "css"],
+  askMeAbout: ["WebDev", "Tech"],
+  technologies: {
+        backEnd: {
+            js: ["Node", "express"],
+        },
+        frontEnd: {
+            js: ["react", "redux"],
+        },
+        devOps: ["Heroku", "Docker🐳"],
+        databases: ["sequelize", "MySql"],
+        currentFocus: "TypeScript",
+    },
+}
+```
