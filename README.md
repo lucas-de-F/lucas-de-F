@@ -17,6 +17,9 @@
 
 
 # Sobre
+
+Me chamo lucas, tenho 19 anos e o motivo que me fez querer ser programador são os desafios. Adoro me desafiar a todo estante, e com muito esforço cada dia procuro crescer um pouco mais
+
 ```
 const lucas = {
   code: ["TypeScript", "JavaScript", "Mysql", "Html", "Css"],
