@@ -3,8 +3,11 @@
 Me chamo lucas, tenho 19 anos e o motivo que me fez querer ser programador é que eu adoro desafios.
 Gosto de me desafiar a todo estante, e com muito esforço procuro crescer cada dia um pouco mais
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-de-f&show_icons=true&theme=radical)
-
+<div><br>
+  <a href="https://github.com/yjapa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yjapa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjapa&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 #### HardSkills
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
