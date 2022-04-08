@@ -3,7 +3,7 @@
 Me chamo lucas, tenho 19 anos e o motivo que me fez querer ser programador é que eu adoro desafios.
 Gosto de me desafiar a todo estante, e com muito esforço procuro crescer cada dia um pouco mais
 
-<div><br>
+<div align="center"><br>
   <a href="https://github.com/yjapa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yjapa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjapa&layout=compact&langs_count=7&theme=dracula"/>
