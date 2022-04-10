@@ -39,7 +39,7 @@ const lucas = {
         },
         devOps: ["Heroku", "Docker🐳"],
         databases: ["Sequelize", "MySql", "Prisma"],
-        currentFocus: "TypeScript",
+        currentFocus: "express/TypeScript && react/TypeScript",
     },
 }
 ```
