@@ -38,8 +38,8 @@ const lucas = {
             js: ["React", "Redux"],
         },
         devOps: ["Heroku", "Docker🐳"],
-        databases: ["Sequelize", "MySql", "Prisma"],
-        currentFocus: "express/TypeScript && react/TypeScript",
+        databases: ["MySql", "MongoDb"],
+        currentFocus: "Angular",
     },
 }
 ```
