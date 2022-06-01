@@ -5,8 +5,8 @@ Gosto de me desafiar a todo estante, e com muito esforço procuro crescer cada d
 
 <div><br />
   <a href="https://github.com/lucas-de-F">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=lucas-de-F&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-de-F&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucas-de-F&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-de-F&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 
