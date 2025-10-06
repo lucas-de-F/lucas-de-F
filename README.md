@@ -1,8 +1,5 @@
 ### Lucas de frança
 
-Me chamo lucas, tenho 19 anos e o motivo que me fez querer ser programador é que eu adoro desafios.
-Gosto de me desafiar a todo instante, e com muito esforço procuro crescer cada dia um pouco mais
-
 #### HardSkills
 
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
